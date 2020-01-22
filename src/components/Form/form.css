@@ -1,0 +1,16 @@
+form {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+}
+
+label,
+input,
+button {
+  display: inline-block;
+  margin: 0 15px;
+}
