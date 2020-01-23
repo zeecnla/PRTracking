@@ -8,3 +8,7 @@ td {
   height: 50px;
   cursor: pointer;
 }
+
+td:hover {
+  background-color: rgb(175, 191, 207);
+}

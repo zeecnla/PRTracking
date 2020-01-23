@@ -70,7 +70,7 @@ const Calender = () => {
     alert(e);
   }
   return (
-    <div class="calender-wrapper">
+    <div className="calender-wrapper">
       <h2>
         {selectedMonth} {selectedYear}
       </h2>
